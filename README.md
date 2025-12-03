@@ -20,8 +20,11 @@ The app uses the FakeStore API for authentication. You can use any of the follow
 
 Username	Password
 mor_2314	83r5^_
+
 johnd	m38rmF$
 kevinryan	kev02937@
+
 donero	ewedon
 derek	jklg*_56
+
 These users are pre-defined in the API and will allow you to access authenticated features like the Cart.
